@@ -1,5 +1,6 @@
 # auto-adaptive-ai
-auto adaptive framework for intrinsic hyperparameter selection, adaptive padding, normalized weights
+auto adaptive framework for intrinsic hyperparameter selection, adaptive padding, normalized weights and loss standardization.
+
 This is an adaptive neural network framework built on pytorch designed to include the following advanced features:
 
 1 - auto-adaptive hyperparameter selection - based on https://arxiv.org/abs/1903.03088v1  (Self-Tuning Networks: Bilevel Optimization of Hyperparameters using Structured Best-Response Functions)
